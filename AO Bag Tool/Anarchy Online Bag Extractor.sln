@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29215.179
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AO Bag Tool", "AO Bag Tool.csproj", "{A9539A22-E5BD-432B-9FEE-112F43E7BEBA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A9539A22-E5BD-432B-9FEE-112F43E7BEBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9539A22-E5BD-432B-9FEE-112F43E7BEBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9539A22-E5BD-432B-9FEE-112F43E7BEBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9539A22-E5BD-432B-9FEE-112F43E7BEBA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A50102BA-B60E-4EEF-9DE1-E93A34BEE5FC}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,13 @@
+D:\Visual Studio Projects\Source\repos\Anarchy Online Bag Extractor\bin\Debug\Anarchy Online Bag Extractor.exe.config
+D:\Visual Studio Projects\Source\repos\Anarchy Online Bag Extractor\bin\Debug\Anarchy Online Bag Extractor.exe
+D:\Visual Studio Projects\Source\repos\Anarchy Online Bag Extractor\bin\Debug\Anarchy Online Bag Extractor.pdb
+D:\Visual Studio Projects\Source\repos\Anarchy Online Bag Extractor\obj\Debug\Anarchy Online Bag Extractor.csprojAssemblyReference.cache
+D:\Visual Studio Projects\Source\repos\Anarchy Online Bag Extractor\obj\Debug\Anarchy_Online_Bag_Extractor.Properties.Resources.resources
+D:\Visual Studio Projects\Source\repos\Anarchy Online Bag Extractor\obj\Debug\Anarchy Online Bag Extractor.csproj.GenerateResource.cache
+D:\Visual Studio Projects\Source\repos\Anarchy Online Bag Extractor\obj\Debug\Anarchy Online Bag Extractor.csproj.CoreCompileInputs.cache
+D:\Visual Studio Projects\Source\repos\Anarchy Online Bag Extractor\obj\Debug\Anarchy Online Bag Extractor.exe
+D:\Visual Studio Projects\Source\repos\Anarchy Online Bag Extractor\obj\Debug\Anarchy Online Bag Extractor.pdb
+D:\Visual Studio Projects\Source\repos\Anarchy Online Bag Extractor\obj\Debug\Anarchy_Online_Bag_Extractor.FormOverlay.resources
+D:\Visual Studio Projects\Source\repos\Anarchy Online Bag Extractor\obj\Debug\Anarchy_Online_Bag_Extractor.MainForm.resources
+D:\Visual Studio Projects\Source\repos\Anarchy Online Bag Extractor\obj\Debug\Anarchy_Online_Bag_Extractor.AboutBox1.resources
+D:\Visual Studio Projects\Source\repos\Anarchy Online Bag Extractor\obj\Debug\Anarchy_Online_Bag_Extractor.Form1.resources
